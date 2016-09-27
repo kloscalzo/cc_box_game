@@ -1,6 +1,6 @@
-//Game Project
+//Creative Coding Game Project
 //Katharine LoScalzo & Melinda Szekeres
-//Sept. 15, 2016
+//27 September 2016
 
 //Attack Box
 
