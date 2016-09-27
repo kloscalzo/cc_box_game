@@ -1,5 +1,5 @@
 //Game Project
-//Kat & Melinda
+//Katharine LoScalzo & Melinda Szekeres
 //Sept. 15, 2016
 
 //Attack Box
